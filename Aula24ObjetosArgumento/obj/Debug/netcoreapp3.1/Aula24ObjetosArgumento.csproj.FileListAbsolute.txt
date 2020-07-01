@@ -1,0 +1,13 @@
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.csprojAssemblyReference.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.AssemblyInfoInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.AssemblyInfo.cs
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.csproj.CoreCompileInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.exe
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.deps.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.runtimeconfig.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.runtimeconfig.dev.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.genruntimeconfig.cache
